@@ -13,9 +13,12 @@ This tutorial project outlines how to install Active Directory through Microsoft
 - Required software: Active Directory Domain Services, Domain controller, and Remote Desktop 
 
 
-<h2>Steps for Project - Installation and Account Permission Features<h2>
+<h2>Steps for Project - Installation and Account Permission Features</h2>
 
-1.
+
+1.Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and one is Domain controller.
+
+![8455CADF-A5BE-4242-AE11-F09ADBE5BBF6](https://github.com/user-attachments/assets/c4180ede-bab0-49fc-b1fd-e45db40eb74b)
 
  
 2.
