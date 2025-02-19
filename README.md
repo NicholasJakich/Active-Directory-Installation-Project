@@ -18,7 +18,7 @@ This tutorial project outlines how to install Active Directory through Microsoft
 
 Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and one is Domain controller.
 
-1.Using Microsoft Azure, create a Resource Group for the Active Directory VMs. Also create a Virtual Network in Azure.
+1.Using Microsoft Azure, create a Resource Group for the Active Directory VMs. Also create a Virtual Network in Azure. To create a Resource Group, click the part as shown in the picture, name the group and click create. Search for Virtual Network in the search bar, name it, and click create to make a Virtual netork as well.
 
 ![8A188B03-92C5-4F24-BA5F-98AA950E4700_4_5005_c](https://github.com/user-attachments/assets/bcab40a2-ce8e-4608-9760-8685aa9fbab5)
 
