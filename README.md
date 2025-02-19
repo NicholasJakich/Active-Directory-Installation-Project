@@ -22,12 +22,19 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 
 ![8A188B03-92C5-4F24-BA5F-98AA950E4700_4_5005_c](https://github.com/user-attachments/assets/bcab40a2-ce8e-4608-9760-8685aa9fbab5)
 
-2.Create two Virutal machines. This includes one for a client machine (client 1) and a Domain Controller Machine (DC 1).
+2.Create two Virutal machines. This includes one for a client machine (Client 1) and a Domain Controller Machine (DC 1).
 
 ![8455CADF-A5BE-4242-AE11-F09ADBE5BBF6](https://github.com/user-attachments/assets/c4180ede-bab0-49fc-b1fd-e45db40eb74b)
 
-3.
+3.Using Remote desktop, sign into the Virtual machines. First sign into the Domain Controller VM adn disable the Windows firewall. This is done by going to Windows Defender Firewall setting, uncheck the to turn them off, and click apply.
 
-4.
+![178B820E-80E5-4388-A753-1C9E284E6270](https://github.com/user-attachments/assets/dbb0c440-77ce-4edb-85f4-1265ba1a8e44)
 
-5.
+4.In Azure in the Domain controller VM (DC-1), copy the VM's private IP address. Go to the setting for Client 1 and paste the IP address to the DNS server in Client 1. This allows the ability to join the domain.
+
+
+5.Restart the VM and open the Client 1 VM. Within the OS, open powershell and ping the IP address of DC 1. This allows you to check and confirm the ping that Client 1 is using DC 1 as the DNS server.
+
+![C7450D31-1407-41ED-9BDE-FF6888EF90D1](https://github.com/user-attachments/assets/93510ad1-ac82-47f3-92bb-617a15aae6c1)
+
+
