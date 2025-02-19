@@ -32,6 +32,8 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 
 4.In Azure in the Domain controller VM (DC-1), copy the VM's private IP address. Go to the setting for Client 1 and paste the IP address to the DNS server in Client 1. This allows the ability to join the domain.
 
+<img width="662" alt="38544F13-FCC1-49EE-AB11-62B76A20B035" src="https://github.com/user-attachments/assets/cd994989-dc74-4f7f-95ca-a9eee522c1b0" />
+
 
 5.Restart the VM and open the Client 1 VM. Within the OS, open powershell and ping the IP address of DC 1. This allows you to check and confirm the ping that Client 1 is using DC 1 as the DNS server.
 
