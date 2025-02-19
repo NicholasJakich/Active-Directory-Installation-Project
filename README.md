@@ -39,4 +39,13 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 
 ![C7450D31-1407-41ED-9BDE-FF6888EF90D1](https://github.com/user-attachments/assets/93510ad1-ac82-47f3-92bb-617a15aae6c1)
 
+6.
+
+7.
+
+8.
+
+9.
+
+10.
 
