@@ -39,9 +39,14 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 
 ![C7450D31-1407-41ED-9BDE-FF6888EF90D1](https://github.com/user-attachments/assets/93510ad1-ac82-47f3-92bb-617a15aae6c1)
 
-6.
+6.In the DC 1 VM, go to Server Manager through the Windows search bar. From Server Manager activate Active Directory Domain Services by clicking the option and install
 
-7.
+![image](https://github.com/user-attachments/assets/7842cabd-f899-4200-8e65-85c49e88e84a)
+
+7.In Sever Manger setting, click the flag icon and open the ADDS Configuration Wizard. Within that settiing, complete the setting for the Domain name, Forest, and install. Afterwards, restart the VM. This makes the OS a Domain controller.
+
+![image](https://github.com/user-attachments/assets/74b0bd25-dcd9-4b1b-87ec-799857614dff)
+
 
 8.
 
