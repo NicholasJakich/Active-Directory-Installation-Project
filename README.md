@@ -52,9 +52,9 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 
 ![D81EC8BA-029D-4CE4-B3F7-3404B22EC981](https://github.com/user-attachments/assets/aedae524-2658-4b19-b6fc-6173f5466c56)
 
+9.It is reccomended to create a User account and make it Domain's Admin so it can edit and have more permissions. To do so, click Admins and create a new user. Create a name, password, and choose Finish. After the account is made, right click to choose properties and put the account in the Domian Admins group to make it an Admin.
 
-
-9.
+<img width="1085" alt="D936C535-CEF7-4A05-BF91-1D5EEA684A41" src="https://github.com/user-attachments/assets/8e2d0ae1-473a-4dce-ae78-0218441a18ad" />
 
 10.
 
