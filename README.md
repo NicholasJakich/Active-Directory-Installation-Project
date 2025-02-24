@@ -48,7 +48,11 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 ![image](https://github.com/user-attachments/assets/74b0bd25-dcd9-4b1b-87ec-799857614dff)
 
 
-8.
+8.Within the DC 1 Virtual Machine, go to Windows Administrative tools and choose Active Directory Users and Computers. From here, Orginizational Units and User accounts can be created in this setting for Active Directory.
+
+![D81EC8BA-029D-4CE4-B3F7-3404B22EC981](https://github.com/user-attachments/assets/aedae524-2658-4b19-b6fc-6173f5466c56)
+
+
 
 9.
 
