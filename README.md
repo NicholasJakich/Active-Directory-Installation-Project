@@ -56,5 +56,5 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 
 <img width="1085" alt="D936C535-CEF7-4A05-BF91-1D5EEA684A41" src="https://github.com/user-attachments/assets/8e2d0ae1-473a-4dce-ae78-0218441a18ad" />
 
-10.
+10.Log in to the Client VM (Client 1) to make it part of the Domain from the Active Directory. To do so, right-click Start, click System, and click Rename this PC (advanced). From this menu, the Client 1 can be made part of the Active Directory Domain. Additionally a Domain Admin account should be used to sign in to finish this step, and restart the VM to complete the process.
 
