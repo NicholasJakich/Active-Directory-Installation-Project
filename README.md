@@ -66,8 +66,12 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 
 <h2> Basic Group Policy and Account Permissions </h2>
 
+Using Active Directory Users and Computers setting, certain permissions and policy can be set. This section shows some features on how to use security features like locking out an account from too many wrong password attempts.
 
 1.
 
 2.
 
+3.
+
+4.
