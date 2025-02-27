@@ -66,8 +66,8 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 
 <h2> Basic Group Policy and Account Permissions </h2>
 
-<p>
-1.km
+
+1.
 
 2.
-</p>
+
