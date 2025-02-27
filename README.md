@@ -66,7 +66,7 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 
 <h2> Basic Group Policy and Account Permissions </h2>
 
-Using setting such as Group Policy Management Console, certain permissions and policy can be set. The Group Policy is part of Active Directory and can configure accounts in ADDS. This section shows how to use security features like locking out an account from too many wrong password attempts.
+Using setting such as Group Policy Management Console, certain permissions and policy can be set. The Group Policy is part of Active Directory and can configure accounts in ADDS. This section shows how to use security features like locking out an account from too many wrong password attempts, and reseting a password.
 
 1.To get to Group Policy within a Windows OS, right click Start, click Run, type gpmc.msc, and hit the enter key. This is how to get to the Group Policy Management Console.
 
@@ -82,3 +82,10 @@ Policies > Account Lockout Policy.
 <img width="727" alt="1024062B-360F-4D55-A39C-0FE38F211CB8" src="https://github.com/user-attachments/assets/61a0bc98-141c-44be-820a-e49d4a0c7a3a" />
 
 4.Ater appliying new group policy setting, the the account security can be checked. Sign out, refresh, and try to sign in with the wrong password by the number of attempts used in the setting. The account should lock out for a while, showing the features worked for extra security.
+
+![F4827B1C-0D1B-4778-B917-9E4BDB88460F](https://github.com/user-attachments/assets/31e80b0f-b23c-4a8c-9fbf-a3e6e4ca20ad)
+
+5.The password for an account can also be changed from Active Direcory Users and Computers setting. Simply right click an account, choose reset password, and create a new password from that section and click OK. From this section you can also unlock the user's account.
+
+![FF0F6844-B388-433E-A6C6-FDCBC9C482C7](https://github.com/user-attachments/assets/14a869df-27b8-4d2a-a85e-ee9be4b0b4d2)
+
