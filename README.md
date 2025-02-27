@@ -11,7 +11,8 @@ This tutorial project outlines how to install Active Directory through Microsoft
 - Microsoft Azure Account
 - A working computer
 - Virtual Machines in Azure
-- Windows OS
+- Powershell (in VMs)
+- Windows OS (in VMs)
 - Required software: Active Directory Domain Services, Domain controller, and Remote Desktop 
 
 
@@ -24,7 +25,7 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 
 ![8A188B03-92C5-4F24-BA5F-98AA950E4700_4_5005_c](https://github.com/user-attachments/assets/bcab40a2-ce8e-4608-9760-8685aa9fbab5)
 
-2.Create two Virutal machines. This includes one for a client machine (Client 1) and a Domain Controller Machine (DC 1).
+2.Create two Virutal machines. This includes one for a client machine and a Domain Controller Machine. In this project the VMs are known as Client 1 and DC 1.
 
 ![8455CADF-A5BE-4242-AE11-F09ADBE5BBF6](https://github.com/user-attachments/assets/c4180ede-bab0-49fc-b1fd-e45db40eb74b)
 
