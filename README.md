@@ -77,6 +77,8 @@ Policies > Account Lockout Policy.
 
 <img width="675" alt="5CC4144F-0138-4A8A-88B7-E04D6775E6F4" src="https://github.com/user-attachments/assets/d34a745d-4f1c-481e-a75a-04e8dd78905f" />
 
-3.
+3.From Account Lockout Policy, settings can be chosen to add security to an account. An example is choosing account lockout and setting it to 20 attempts. This locks an account after 20 wrong attempts. Account lockout duration can be set to how long to wait before an account can be log in again.
 
-4.
+<img width="727" alt="1024062B-360F-4D55-A39C-0FE38F211CB8" src="https://github.com/user-attachments/assets/61a0bc98-141c-44be-820a-e49d4a0c7a3a" />
+
+4.Ater appliying new group policy setting, the the account security can be checked. Sign out, refresh, and try to sign in with the wrong password by the number of attempts used in the setting. The account should lock out for a while, showing the features worked for extra security.
