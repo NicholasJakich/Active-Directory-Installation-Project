@@ -66,9 +66,11 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 
 <h2> Basic Group Policy and Account Permissions </h2>
 
-Using Active Directory Users and Computers setting, certain permissions and policy can be set. This section shows some features on how to use security features like locking out an account from too many wrong password attempts.
+Using setting such as Group Policy Management Console, certain permissions and policy can be set. The Group Policy is part of Active Directory and can configure accounts in ADDS. This section shows how to use security features like locking out an account from too many wrong password attempts.
 
-1.
+1.To get to Group Policy within a Windows OS, right click Start, click Run, type gpmc.msc, and hit the enter key. This is how to get to the Group Policy Management Console.
+
+![B38350F0-B10B-422E-A950-AC1F99664260](https://github.com/user-attachments/assets/46001f11-0d0a-4df8-8d8a-8966a76d4c48)
 
 2.
 
