@@ -72,7 +72,10 @@ Using setting such as Group Policy Management Console, certain permissions and p
 
 ![B38350F0-B10B-422E-A950-AC1F99664260](https://github.com/user-attachments/assets/46001f11-0d0a-4df8-8d8a-8966a76d4c48)
 
-2.
+2.Open the Account Lockout setting. To do so, click and open the following: Computer Configuration > Policies > Windows Settings > Security Settings > Account
+Policies > Account Lockout Policy.
+
+<img width="675" alt="5CC4144F-0138-4A8A-88B7-E04D6775E6F4" src="https://github.com/user-attachments/assets/d34a745d-4f1c-481e-a75a-04e8dd78905f" />
 
 3.
 
