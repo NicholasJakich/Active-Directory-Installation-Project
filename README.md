@@ -4,7 +4,7 @@
 
 **Summary**
 
-This tutorial project outlines how to install Active Directory through Microsoft Azure. It shows the process of installing and some examples of using AD through its accounts and features.<br />
+This tutorial project outlines how to install Active Directory through Microsoft Azure and some examples of using AD through its accounts and security features. This main section shows the process of installing Active Directory using Azure, using one client Virtual machine, and one VM for Domain controller. The second section of the project shows Active Directory Group Policy and account security features.  <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -16,10 +16,9 @@ This tutorial project outlines how to install Active Directory through Microsoft
 - Required software: Active Directory Domain Services, Domain controller, and Remote Desktop 
 
 
-<h2>Steps for Project - Installation and Account Permission Features</h2>
+<h2>Steps for Project - Installation of Active Directory using Azure </h2>
 
 
-Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and one is Domain controller.
 
 1.Using Microsoft Azure, create a Resource Group for the Active Directory VMs and create a Virtual Network. To do so, click Resource Group, name the group, and click create. Search for Virtual Network in the search bar, and follow the same steps to create one.
 
