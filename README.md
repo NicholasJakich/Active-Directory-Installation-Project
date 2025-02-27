@@ -64,3 +64,10 @@ Creating VMs, Resource group in Azure, Virtual Network, one VM is Client 1 and o
 ![175CD613-6D23-455A-B5C4-0BAB1E8176D3](https://github.com/user-attachments/assets/de417855-2e9f-41d5-908e-d404c39dff3e)
 
 
+<h2> Basic Group Policy and Account Permissions </h2>
+
+<p>
+1.km
+
+2.
+</p>
