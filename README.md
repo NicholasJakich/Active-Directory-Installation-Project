@@ -45,7 +45,7 @@ This tutorial project outlines how to install Active Directory through Microsoft
 
 ![image](https://github.com/user-attachments/assets/7842cabd-f899-4200-8e65-85c49e88e84a)
 
-7. In Server Manger setting, click the flag icon and open the ADDS Configuration Wizard. Within that settiing, complete the setting for the Domain name, Forest, and install. Afterwards, restart the VM. This makes the OS a Domain controller.
+7. In Server Manger setting, click the flag icon and open the ADDS Configuration Wizard. Within that setting, complete the setting for the Domain name, Forest, and install. Afterwards, restart the VM. This makes the OS a Domain controller.
 
 ![image](https://github.com/user-attachments/assets/74b0bd25-dcd9-4b1b-87ec-799857614dff)
 
@@ -67,7 +67,7 @@ This tutorial project outlines how to install Active Directory through Microsoft
 
 Using setting such as Group Policy Management Console, certain permissions and policy can be set. The Group Policy is part of Active Directory and can configure accounts in ADDS. This section shows how to use security features like locking out an account from too many wrong password attempts, and reseting a password.
 
-1. To get to Group Policy within a Windows OS, right click Start, click Run, type gpmc.msc, and hit the enter key. This is how to get to the Group Policy Management Console.
+1. To get to Group Policy within a Windows OS, right click Start, click Run, type gpmc.msc, and click the enter key. This is how to get to the Group Policy Management Console.
 
 ![B38350F0-B10B-422E-A950-AC1F99664260](https://github.com/user-attachments/assets/46001f11-0d0a-4df8-8d8a-8966a76d4c48)
 
@@ -80,7 +80,7 @@ Policies > Account Lockout Policy.
 
 <img width="727" alt="1024062B-360F-4D55-A39C-0FE38F211CB8" src="https://github.com/user-attachments/assets/61a0bc98-141c-44be-820a-e49d4a0c7a3a" />
 
-4. Ater appliying new group policy setting, the the account security can be checked. Sign out, refresh, and try to sign in with the wrong password by the number of attempts used in the setting. The account should lock out for a while, showing the features worked for extra security.
+4. Ater applying new group policy setting, the the account security can be checked. Sign out, refresh, and try to sign in with the wrong password by the number of attempts used in the setting. The account should lock out for a while, showing the features worked for extra security.
 
 ![F4827B1C-0D1B-4778-B917-9E4BDB88460F](https://github.com/user-attachments/assets/31e80b0f-b23c-4a8c-9fbf-a3e6e4ca20ad)
 
